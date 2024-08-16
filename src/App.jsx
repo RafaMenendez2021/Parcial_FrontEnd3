@@ -1,12 +1,11 @@
 import './App.css'
-import Card from './Components/Card'
+import Form from './Components/Form'
 
 function App() {
   return (
     <>
     <h1>Primer parcial Front end 3</h1>
-    <form></form>
-    <Card />
+    <Form/>
     </>
   )
 }
